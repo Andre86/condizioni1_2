@@ -37,8 +37,6 @@ break;
 case voto == 30:
         giudizio = 'Eccellente'
 break;
-default:
-    giudizio = `Voto non valido!`
     break;
 }
 

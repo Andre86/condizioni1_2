@@ -44,3 +44,9 @@
 
 // SU - esercizio precedente ---------------------
 
+let temperatura = Number(prompt(`inserisci la temperatura:`));
+
+if(temperatura <= -10){
+        console.log('Copriti, fa molto freddo');
+        
+}

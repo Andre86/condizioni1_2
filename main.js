@@ -44,4 +44,3 @@
 
 // SU - esercizio precedente ---------------------
 
-prova

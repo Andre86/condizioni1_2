@@ -49,4 +49,6 @@ let temperatura = Number(prompt(`inserisci la temperatura:`));
 if(temperatura <= -10){
         console.log('Copriti, fa molto freddo');
         
+}else if ( temperatura <= 0){
+        console.log('Oggi non fa molto freddo')
 }
